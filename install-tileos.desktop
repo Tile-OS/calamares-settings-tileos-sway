@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Install TileOS
+GenericName=Calamares Installer
+Exec=install-tileos
+Comment=Calamares — Installer for TileOS
+Keywords=calamares;system;install;debian;installer
+Icon=install-debian
+Terminal=false
+Categories=Qt;System;
+StartupWMClass=calamares
+StartupNotify=True

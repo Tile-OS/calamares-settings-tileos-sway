@@ -1,0 +1,25 @@
+Source: calamares-settings-tileos-sway
+Section: utils
+Priority: optional
+Maintainer: Aleksey Samoilov <samoilov.lex@gmail.com>
+Build-Depends: debhelper-compat (= 13), libglib2.0-bin
+Standards-Version: 4.6.0
+Rules-Requires-Root: no
+Homepage: https://github.com/Tile-OS/calamares-settings-tileos.git
+
+Package: calamares-settings-tileos-sway
+Architecture: all
+Depends: calamares,
+         cryptsetup,
+         keyutils,
+         python3-toml,
+         qml-module-qtquick-window2,
+         qml-module-qtquick2,
+         ${misc:Depends}
+Conflicts: calamaes-settings-tileos-river, calamares-settings-debian
+Provides: calamares-settings
+Description: TileOS Sway theme and settings for the Calamares Installer
+ Calamares is a generic installer framework for Linux distributions.
+ By default, it contains a set of boilerplate wording and images. This
+ package provides the latest TileOS artwork as well as scripts that
+ supports EFI installations.
