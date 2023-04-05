@@ -1,3 +1,9 @@
+calamares-settings-tileos-sway (1.1~tileos) unstable; urgency=medium
+
+  * Run Calamares in debug mode
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Wed, 05 Apr 2023 22:20:12 +0400
+
 calamares-settings-tileos-sway (1.0~tileos) unstable; urgency=medium
 
   * Initial upload
