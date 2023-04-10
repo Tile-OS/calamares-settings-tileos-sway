@@ -1,3 +1,9 @@
+calamares-settings-tileos-sway (1.2~tileos) unstable; urgency=medium
+
+  * Exec start-sway wrapper
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Mon, 10 Apr 2023 19:38:13 +0400
+
 calamares-settings-tileos-sway (1.1~tileos) unstable; urgency=medium
 
   * Run Calamares in debug mode
