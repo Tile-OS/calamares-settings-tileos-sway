@@ -1,3 +1,10 @@
+calamares-settings-tileos-sway (1.5~tileos) unstable; urgency=medium
+
+  * Styling adjustments
+  * Fix netinstall.conf
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Thu, 08 Jun 2023 06:35:57 -0400
+
 calamares-settings-tileos-sway (1.4~tileos) unstable; urgency=medium
 
   * Initial netinstall module
