@@ -1,3 +1,9 @@
+calamares-settings-tileos-sway (1.6~tileos) unstable; urgency=medium
+
+  * Add partition config
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Sat, 10 Jun 2023 23:02:32 +0400
+
 calamares-settings-tileos-sway (1.5~tileos) unstable; urgency=medium
 
   * Styling adjustments
