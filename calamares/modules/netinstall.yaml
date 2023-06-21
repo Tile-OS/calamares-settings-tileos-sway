@@ -32,6 +32,7 @@
     - apostrophe
     - arduino
     - bluefish
+    - code
     - emacs
     - geany
     - ghex
@@ -53,6 +54,8 @@
   packages:
     - dolphin-emu
     - dosbox
+    - gamehub
+    - gamemode
     - gamescope
     - lutris
     - mame
@@ -82,6 +85,7 @@
     - rawtherapee
     - ristretto
     - simple-scan
+    - tupi
 - name: "Internet"
   description: "Web browsers, mail clietns, torrent clietns, etc"
   critical: false
@@ -89,6 +93,7 @@
   selected: false
   expanded: false
   packages:
+    - brave-browser
     - chromium
     - dino
     - epiphany-browser
@@ -96,6 +101,7 @@
     - filezilla
     - gajim
     - geary
+    - librewolf
     - nheko
     - telegram-desktop
     - thunderbird
@@ -121,6 +127,7 @@
     - elisa
     - handbrake
     - kdenlive
+    - lmms
     - mpv
     - musikcube
     - obs-studio
@@ -145,28 +152,37 @@
     - libreoffice-draw
     - libreoffice-math
     - okular
+    - onlyoffice-desktopeditors
     - qpdfview
     - zathura
 - name: "System"
-  description: "Various system software and utils"
+  description: "Various system software, emulators and VM's"
   critical: false
   hidden: false
   selected: false
   expanded: false
   packages:
+    - alacritty
+    - aqemu
     - cpu-x
+    - distrobox
     - drm-info
     - firewalld
+    - firewall-config
     - firetools
     - gnome-packagekit
     - gsmartcontrol
+    - htop
     - inxi
     - kitty
     - mate-terminal
     - opensnitch
+    - qemu-system
     - sakura
     - system-config-printer
     - terminator
     - timeshift
     - virt-manager
+    - waydroid
     - xfce4-terminal
+    - ydotool
