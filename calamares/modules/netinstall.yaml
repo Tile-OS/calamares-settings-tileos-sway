@@ -164,6 +164,7 @@
   packages:
     - alacritty
     - aqemu
+    - corectrl
     - cpu-x
     - distrobox
     - drm-info
@@ -178,6 +179,7 @@
     - mate-terminal
     - opensnitch
     - qemu-system
+    - radeontop
     - sakura
     - system-config-printer
     - terminator
