@@ -11,6 +11,7 @@ strings:
     versionedName:       TileOS 1.0 (t-rex)
     shortVersionedName:  TileOS 1.0
     bootloaderEntryName: TileOS
+    supportUrl:          https://github.com/Tile-OS/TileOS/issues
 
 images:
     productLogo:         "tileos-logo.png"
