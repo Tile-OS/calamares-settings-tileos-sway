@@ -1,3 +1,10 @@
+calamares-settings-tileos-sway (1.9~tileos) unstable; urgency=medium
+
+  * Require internet for installing
+  * Update welcome screen
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Tue, 25 Jul 2023 23:21:11 +0400
+
 calamares-settings-tileos-sway (1.8~tileos) unstable; urgency=medium
 
   * Fix installation script
